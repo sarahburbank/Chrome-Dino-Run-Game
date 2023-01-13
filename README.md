@@ -1,3 +1,2 @@
 # Chrome-Dino-Run-Game
-Replication of Offline Chrome Dino Run Game
-Uses Princeton introcs libraries
+Replication of Offline Chrome Dino Run Game using Princeton introcs libraries
